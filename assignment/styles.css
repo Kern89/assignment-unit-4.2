@@ -1,0 +1,11 @@
+header {
+    background-color: darkmagenta;
+}
+h2, h3 {
+    background-color: darkslategrey;
+    color: goldenrod
+}
+.info {
+    max-width: 650px;
+    text-align: center;
+}
